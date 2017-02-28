@@ -7,3 +7,7 @@
 - Detect RSS Feeds – [source](https://github.com/banterability/bookmarklets/blob/master/detect_rss_feeds.js)
 
   Log all `link` elements with `rel=alternate` to console.
+
+- Find RSS feed for YouTube user/channel – [source](https://github.com/banterability/bookmarklets/blob/master/youtube_feed.js)
+
+  Navigate to an RSS feed for the current YouTube channel.
